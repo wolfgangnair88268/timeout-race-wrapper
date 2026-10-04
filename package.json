@@ -1,6 +1,6 @@
 {
   "name": "timeout-race-wrapper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wraps a promise so that it rejects with a timeout error if it does not settle within a specified duration.",
   "type": "module",
   "main": "src/index.js",
